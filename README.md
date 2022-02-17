@@ -26,7 +26,10 @@ Coming soon..
 
 ## How to us it? 
 
-Coming soon..
+https://user-images.githubusercontent.com/89396215/154570532-62442588-1b67-4b2f-87de-09f03d1a5c30.mov
+
+https://user-images.githubusercontent.com/89396215/154570563-e80c6bd9-759e-43ed-ae83-81e8727a1dd3.mov
+
 
 ## Data and other sources
 <ul >
