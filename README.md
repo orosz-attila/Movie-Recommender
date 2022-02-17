@@ -24,7 +24,7 @@ http://surpriselib.com/
 
 Coming soon..
 
-## How to us it? 
+## How to use it? 
 
 https://user-images.githubusercontent.com/89396215/154570532-62442588-1b67-4b2f-87de-09f03d1a5c30.mov
 
