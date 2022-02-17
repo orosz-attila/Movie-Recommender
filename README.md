@@ -31,7 +31,10 @@ Coming soon..
 ## Data and other sources
 <ul >
     <li style='text-align: justify;'>Movies and ratings data: <a href="https://grouplens.org/datasets/movielens/" target="_blank">MovieLens small database</a> - 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600 users. Last updated 9/2018.</li>
+    <li style='text-align: justify;'>Gifs: <a href="https://iwdrm.tumblr.com/" target="_blank">IWDRM</a></li
     <li style='text-align: justify;'>Page Icon: <a href="https://www.veryicon.com/icons/system/alphabet/letter-r.html" target="_blank"> Steven Ansell</a></li>
+
+
 </ul>
 
 
