@@ -1,6 +1,6 @@
 # Movie recommender
 
-<p style='text-align: justify;'>The movie recommender is based on the Collaborative Filtering approach, and creates predictions for movie ratings with the Matrix Factorization technique, more precisely, on the SVD (Singular Value Decomposition) algorythm of <a href="https://surprise.readthedocs.io/en/stable/" target="_blank">SurPRISE library</a> Trained on 'small' dataset of <a href="https://grouplens.org/datasets/movielens/" target="_blank">MovieLens</a>. </p> 
+<p style='text-align: justify;'>The movie recommender is based on the Collaborative Filtering approach, and creates predictions for movie ratings with Matrix Factorization technique, more precisely, the SVD (Singular Value Decomposition) algorythm of <a href="https://surprise.readthedocs.io/en/stable/" target="_blank">SurPRISE library</a> Trained on 'small' dataset of <a href="https://grouplens.org/datasets/movielens/" target="_blank">MovieLens</a>. </p> 
 
 <p style='text-align: justify;'>It is <a href="https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app" target="_blank">deployed with Streamlit</a> and can be found <a href="https://share.streamlit.io/orosz-attila/covid-19-dashboard/main" target="_blank">here</a>.</p>
 
