@@ -16,15 +16,17 @@ http://surpriselib.com/
 
 <ol >
     <li style='text-align: justify;'>streamlit_app.py: contains the codes which runs on Streamlit</li>
-    <li style='text-align: justify;'>functions.py: contains the codes of all the functions for data transformation and the function for recommendation using the SVD algorythm of SurPRISE</li>
-    <li style='text-align: justify;'>customize.py: contains the codes for CSS and HTML customization</li>
+    <li style='text-align: justify;'>functions_svd.py: contains the codes of all the functions for data transformation and the function for recommendation using the SVD algorythm of SurPRISE</li>
+    <li style='text-align: justify;'>config.py: contains the codes for CSS and HTML customization</li>
 </ol>
 
 ## Requirements / Installation 
 
+Coming soon..
 
 ## How to us it? 
 
+Coming soon..
 
 ## Data and other sources
 <ul >
@@ -34,8 +36,9 @@ http://surpriselib.com/
 
 
  ## Changelog
-
- 17-02-22: v1.0 Deployed with Streamlit
+ - 02-02-22: v1.0 Uploaded  
+ - 17-02-22: v1.1 Deployed with Streamlit
+    - Coming soon... 
 
  ## Further developments
 
