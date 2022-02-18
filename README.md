@@ -1,9 +1,11 @@
 # Movie recommender
 
-<p style='text-align: justify;'>The movie recommender is based on the Collaborative Filtering approach, and creates predictions for movie ratings with Matrix Factorization technique, more precisely, the SVD (Singular Value Decomposition) algorythm of <a href="https://surprise.readthedocs.io/en/stable/" target="_blank">SurPRISE library</a> Trained on 'small' dataset of <a href="https://grouplens.org/datasets/movielens/" target="_blank">MovieLens</a>. </p> 
+<p style='text-align: justify;'>The movie recommender is based on the Collaborative Filtering approach, and creates predictions for movie ratings with Matrix Factorization technique, more precisely, the SVD (Singular Value Decomposition) algorythm of <a href="https://surprise.readthedocs.io/en/stable/" target="_blank">SurPRISE library</a>. Trained on 'small' dataset of <a href="https://grouplens.org/datasets/movielens/" target="_blank">MovieLens</a>. </p> 
 
-<p style='text-align: justify;'>It is <a href="https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app" target="_blank">deployed with Streamlit</a> and can be found <a href="https://share.streamlit.io/orosz-attila/covid-19-dashboard/main" target="_blank">here</a>.</p>
+<p align="justify">It is <a href="https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app" target="_blank">deployed with Streamlit</a> and can be found here:<p>
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/orosz-attila/movie-recommender/main) 
+    
 <p style='text-align: justify;'>My notebook for this project and for tuning the algorythm parameters is also available on <a href="https://colab.research.google.com/drive/1StLDRJ7LVoPS10AULBxVOJo8rDqnt3U8" target="_blank">Jupyter Colab</a>.</p>
 
 ## Algorythm
@@ -26,18 +28,14 @@ Coming soon..
 
 ## How to use it? 
 
-https://user-images.githubusercontent.com/89396215/154570532-62442588-1b67-4b2f-87de-09f03d1a5c30.mov
-
 https://user-images.githubusercontent.com/89396215/154570563-e80c6bd9-759e-43ed-ae83-81e8727a1dd3.mov
 
 
 ## Data and other sources
 <ul >
     <li style='text-align: justify;'>Movies and ratings data: <a href="https://grouplens.org/datasets/movielens/" target="_blank">MovieLens small database</a> - 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600 users. Last updated 9/2018.</li>
-    <li style='text-align: justify;'>Gifs: <a href="https://iwdrm.tumblr.com/" target="_blank">IWDRM</a></li
+    <li style='text-align: justify;'>Gifs: <a href="https://iwdrm.tumblr.com/" target="_blank">IWDRM</a></li>
     <li style='text-align: justify;'>Page Icon: <a href="https://www.veryicon.com/icons/system/alphabet/letter-r.html" target="_blank"> Steven Ansell</a></li>
-
-
 </ul>
 
 
