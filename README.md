@@ -50,7 +50,12 @@ https://user-images.githubusercontent.com/89396215/154570563-e80c6bd9-759e-43ed-
 
  ## Changelog
  - 02-02-22: v1.0 Uploaded  
- - 17-02-22: v1.1 Deployed with Streamlit 
+ - 17-02-22: v1.1 Deployed with Streamlit
+ - 21-02-22: v1.1 Updates:
+    - config.toml added: dark theme set as default 
+    - recommendation function corrected 
+    - readme finalized
+    - colab notebook finalized
 
  ## Further developments
 
