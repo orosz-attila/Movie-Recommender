@@ -6,7 +6,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/orosz-attila/movie-recommender/main) 
     
-<p style='text-align: justify;'>My notebook for this project is also available on <a href="https://colab.research.google.com/drive/1hqZ6X0jy_CcB1tlPvQHUcGcFvkryhkZK" target="_blank">Jupyter Colab</a>. (Comparing NMF and SVD algorythms and tuning parameters with Gridsearch, cross validation with RMSE and MAE scores.)</p>
+<p style='text-align: justify;'>The notebook for creating the recommendation model is also available on <a href="https://colab.research.google.com/drive/1hqZ6X0jy_CcB1tlPvQHUcGcFvkryhkZK" target="_blank">Jupyter Colab</a>. (Comparing NMF and SVD algorythms and tuning parameters with Gridsearch, cross validation with RMSE and MAE scores.)</p>
 
  ## Description 
 
