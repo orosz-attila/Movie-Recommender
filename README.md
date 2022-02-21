@@ -20,7 +20,7 @@
 
 surprise==0.1
 
-<p style='text-align: justify;'>For local installation, follow the steps describe in the <a href="http://surpriselib.com/" target="_blank">surPRISE documentation</a>. </p>  
+<p style='text-align: justify;'>For local installation, follow the steps described in the <a href="http://surpriselib.com/" target="_blank">surPRISE documentation</a>. </p>  
 
 With pip (you’ll need numpy, and a C compiler. Windows users might prefer using conda):
 
