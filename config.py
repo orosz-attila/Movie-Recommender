@@ -187,7 +187,7 @@ def expander_html():
     '''Text of the expander, with inline styling: text-align: justify'''
     st.write(
         """
-    <p style='text-align: justify; font-size: 1rem; font-weight: 400; padding: 0px; margin: 0px 0px 1rem;'>Select a movie from the dropdown menu and rate it on a scale from 1 to 5. Add at least 10 movies, finally hit 'Recommend' below.
+    <p style='text-align: justify; font-size: 1rem; font-weight: 400; padding: 0px; margin: 0px 0px 1rem;'>Select a movie from the dropdown menu and rate it on a scale from 1 to 5. Add at least 10 movies to your list, finally hit 'Recommend' below.
     </p>
     <p style='text-align: justify; font-size: 1rem; font-weight: 400; padding: 0px; margin: 0px 0px 1rem;'>Created By Attila Orosz. More info on <a href="https://github.com/orosz-attila/Movie-Recommender" target="_blank">Github</a>.
     </p>
@@ -208,8 +208,8 @@ def random_gif():
                 'https://64.media.tumblr.com/tumblr_laonjuZpOg1qe0eclo1_r4_500.gifv',
                 'https://64.media.tumblr.com/tumblr_lasmpzzeeO1qe0eclo1_r2_500.gifv',
                 'https://64.media.tumblr.com/tumblr_lce2v5RdkQ1qe0eclo1_r3_500.gifv',
-                'https://64.media.tumblr.com/e143caf373a57a149f7d0ce7d4d461e2/tumblr_ldsq207kj41qe0eclo2_r1_500.gifv',
                 'https://64.media.tumblr.com/tumblr_lf0civt0Fh1qe0eclo1_r2_500.gifv',
+                'https://64.media.tumblr.com/38ad849338d5e1eeecfd1880b0497514/tumblr_mh6d6nDLrR1qe0eclo1_r6_500.gifv' 
                 ]
     n = random.randint(0,10)
     url = gif_list[n]

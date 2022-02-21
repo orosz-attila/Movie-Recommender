@@ -22,7 +22,7 @@ cf.footer()
 
 # initializing session state variable for the url of first background 
 if 'url' not in st.session_state: 
-    st.session_state.url = 'https://64.media.tumblr.com/38ad849338d5e1eeecfd1880b0497514/tumblr_mh6d6nDLrR1qe0eclo1_r6_500.gifv' 
+    st.session_state.url = 'https://64.media.tumblr.com/e143caf373a57a149f7d0ce7d4d461e2/tumblr_ldsq207kj41qe0eclo2_r1_500.gifv'
 
 # rendering background with initial url 
 cf.background(st.session_state.url)
