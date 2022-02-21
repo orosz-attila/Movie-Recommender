@@ -8,12 +8,6 @@
     
 <p style='text-align: justify;'>My notebook for this project and for tuning the algorythm parameters is also available on <a href="https://colab.research.google.com/drive/1StLDRJ7LVoPS10AULBxVOJo8rDqnt3U8" target="_blank">Jupyter Colab</a>.</p>
 
-## Algorythm
-
-SVD stands for Singular Vector Decomposition. 
-
-http://surpriselib.com/
-
  ## Description 
 
 <ol >
@@ -24,9 +18,24 @@ http://surpriselib.com/
 
 ## Requirements / Installation 
 
-Coming soon..
+surprise==0.1
+
+<p style='text-align: justify;'>For local installation, follow the steps describe in the <a href="http://surpriselib.com/" target="_blank">surPRISE documentation</a>. </p>  
+
+With pip (you’ll need numpy, and a C compiler. Windows users might prefer using conda):
+
+    $ pip install numpy
+    $ pip install scikit-surprise
+
+With conda (after creating a new environment):
+
+    $ conda install -c conda-forge scikit-surprise
 
 ## How to use it? 
+
+Select a movie from the dropdown menu and rate it on a scale from 1 to 5. Add at least 10 movies to your list, finally hit 'Recommend' below: 
+
+https://user-images.githubusercontent.com/89396215/154991104-fc451eea-d8eb-4489-af85-b5b7b7c51ddb.mov
 
 https://user-images.githubusercontent.com/89396215/154570563-e80c6bd9-759e-43ed-ae83-81e8727a1dd3.mov
 
@@ -41,8 +50,7 @@ https://user-images.githubusercontent.com/89396215/154570563-e80c6bd9-759e-43ed-
 
  ## Changelog
  - 02-02-22: v1.0 Uploaded  
- - 17-02-22: v1.1 Deployed with Streamlit
-    - Coming soon... 
+ - 17-02-22: v1.1 Deployed with Streamlit 
 
  ## Further developments
 
