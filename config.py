@@ -36,7 +36,7 @@ def header_1():
     st.markdown(
         """
     <style>
-    .css-sygy1k h1 {
+    .css-ng1t4o h1 {
         font-size: 60px;
         padding: 0;
         text-align: left;
