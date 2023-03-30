@@ -1,1 +1,2 @@
 surprise==0.1
+streamlit==1.4.0
