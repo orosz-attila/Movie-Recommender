@@ -8,6 +8,7 @@ import time
 # permanent css and html configurations 
 cf.page_config()
 cf.sidebar()
+cf.padding_top()
 cf.header_1()
 cf.header_2()
 cf.dropdown()
