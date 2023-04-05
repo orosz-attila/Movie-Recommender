@@ -31,6 +31,17 @@ def sidebar():
     unsafe_allow_html=True,
     )
 
+def padding_top():
+    st.markdown(
+        """
+    <style>
+    .css-hxt7ib {
+        padding-top: 0;
+    }
+    </style>    
+    """,
+        unsafe_allow_html=True,
+    )
 
 def header_1():
     st.markdown(
